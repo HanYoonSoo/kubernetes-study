@@ -10,6 +10,11 @@
 ### [Kubernetes] 쿠버네티스 소개
 <https://hdbstn3055.tistory.com/158>
 
-
 ### [Kubernetes] Pod - Container, Label, NodeSchedule
-<https://hdbstn3055.tistory.com/168?category=1198907>
+<https://hdbstn3055.tistory.com/168>
+
+### [Kubernetes] Service - ClusterIP, NodePort, LoadBalancer
+<https://hdbstn3055.tistory.com/191>
+
+### [Kubernetes] Volume - emptyDir, hostPath, PV/PVC
+<https://hdbstn3055.tistory.com/193>
