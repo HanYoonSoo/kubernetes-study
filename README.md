@@ -18,3 +18,12 @@
 
 ### [Kubernetes] Volume - emptyDir, hostPath, PV/PVC
 <https://hdbstn3055.tistory.com/193>
+
+### [Kubernetes] ConfigMap, Secret - Env, Mount
+<https://hdbstn3055.tistory.com/204>
+
+### [Kubernetes] Namespace, ResourceQuota, LimitRange
+<https://hdbstn3055.tistory.com/210>
+
+### [Kubernets] Replication Controller, ReplicaSet - Template, Replicas, Selector
+<https://hdbstn3055.tistory.com/212>
