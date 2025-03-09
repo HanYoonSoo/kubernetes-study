@@ -25,5 +25,8 @@
 ### [Kubernetes] Namespace, ResourceQuota, LimitRange
 <https://hdbstn3055.tistory.com/210>
 
-### [Kubernets] Replication Controller, ReplicaSet - Template, Replicas, Selector
+### [Kubernetes] Replication Controller, ReplicaSet - Template, Replicas, Selector
 <https://hdbstn3055.tistory.com/212>
+
+### [Kubernetes] Pod - LifeCycle
+<https://hdbstn3055.tistory.com/395>
